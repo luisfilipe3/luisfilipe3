@@ -2,14 +2,14 @@
 
 ###
 
+<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxenlkd3B3dmhzZmxiNDM3MnJobGpycnRidTU5Y3pmMHdtaTNlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CqDTYmxrpApGF9eI6q/giphy.gif"  />
+
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luisfilipe3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfilipe3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=monokai&hide_border=true" height="128" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxenlkd3B3dmhzZmxiNDM3MnJobGpycnRidTU5Y3pmMHdtaTNlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CqDTYmxrpApGF9eI6q/giphy.gif"  />
 
 ###
 
