@@ -3,13 +3,13 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisfilipe3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="300" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfilipe3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=monokai&hide_border=true" height="193" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisfilipe3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfilipe3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=monokai&hide_border=true" height="128" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BleGczNjJkbmQ5Zmh6dGc5c3MxM3Zqczd0NHhiaTV5dzh5c3VmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CqDTYmxrpApGF9eI6q/giphy.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxenlkd3B3dmhzZmxiNDM3MnJobGpycnRidTU5Y3pmMHdtaTNlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CqDTYmxrpApGF9eI6q/giphy.gif"  />
 
 ###
 
@@ -38,9 +38,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/luisfilipe3/luisfilipe3/output/snake.svg" alt="Snake animation" />
 
 ###
