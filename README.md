@@ -1,4 +1,5 @@
-<h3 align="left">Bem vindo ao meu GitHub</h3>
+<h1 align="left">Bem vindo ao meu GitHub</h1>
+<h3 align="left">Projeto de residência em parceira com a UnB FGA e BRISA que participei. Minha 1° experiência em equipe fazendo uma nova versão de site e identidade visual para a Revista DARCY - UnB https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy</h3>
 
 ###
 
