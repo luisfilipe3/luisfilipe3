@@ -1,5 +1,5 @@
 <h1 align="left">Bem vindo ao meu GitHub</h1>
-<h3 align="left">Projeto de residência em parceira com a UnB FGA e BRISA que participei. Minha 1° experiência em equipe fazendo uma nova versão de site e identidade visual para a Revista DARCY - UnB https://github.com/ResidenciaTICBrisa/T2G7-Revista-Darcy</h3>
+<h3 align="left">Projeto de residência em parceira com a UnB FGA e BRISA que participei. Minha 1° experiência em equipe fazendo uma nova versão de site e identidade visual para a Revista DARCY - UnB<br>https://github.com/orgs/ResidenciaTICBrisa/projects/13/views/6?sortedBy%5Bdirection%5D=desc&sortedBy%5BcolumnId%5D=Milestone&sliceBy%5Bvalue%5D=luisfilipe3</h3>
 
 ###
 
